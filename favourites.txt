@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 ena
 dyo
 tria
+=======
+tessera
+pente
+eksi
+>>>>>>> movies
